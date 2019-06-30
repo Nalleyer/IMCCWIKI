@@ -1,0 +1,4 @@
+# joso blog source git repo
+
+docs/.vuepress/dist/
+node_modules/
