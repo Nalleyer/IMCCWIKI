@@ -5,6 +5,8 @@ module.exports  = {
   themeConfig: {
     sidebar: [
       '/',
+      '/black_language/',
+      '/automatic/'
     ],
     nav: [
       {text: '首页', link: '/'},
