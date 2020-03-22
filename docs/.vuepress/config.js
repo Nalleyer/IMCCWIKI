@@ -7,7 +7,7 @@ module.exports  = {
       '/',
       '/black_language/',
       '/automatic/',
-      '/reference/'
+      '/paper/'
     ],
     nav: [
       {text: '首页', link: '/'},
