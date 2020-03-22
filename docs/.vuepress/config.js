@@ -6,7 +6,8 @@ module.exports  = {
     sidebar: [
       '/',
       '/black_language/',
-      '/automatic/'
+      '/automatic/',
+      '/reference/'
     ],
     nav: [
       {text: '首页', link: '/'},
