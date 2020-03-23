@@ -20,11 +20,6 @@ $ npm run build
 # 提交提pr
 ```
 
-## 自用备注
+## 部署
 
-### 部署
-
-``` bash
-# cmder
-$ sh d.sh
-```
+由`action`在`push`时部署
